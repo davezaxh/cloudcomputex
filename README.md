@@ -1,5 +1,5 @@
 # Code Explaination
-This is a simplified explaination to the first practical of cloud computing, which involves spliting a c program into multiple modules and then executing it. The program explained in this is different from the one done in class for the exact implementation as mentioned in the lab manual check the folder named *firstprac*.
+This is a simplified explaination of the first practical of cloud computing, which involves spliting a c program into multiple modules and then executing it. The program explained in this is different from the one done in class for the exact implementation as mentioned in the lab manual check the folder named *firstprac*.
 
 ## Program Overview
 This program is very simple - it just displays "Hello, world!" on the screen. But it's split into multiple files to demonstrate how larger programs are organized:
