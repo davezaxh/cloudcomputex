@@ -1,6 +1,5 @@
 # Code Explaination
-
-Let me break down this code into simpler terms and explain how multiple files work together in a C program. This is a fundamental concept that will help you with larger projects later!
+This is a simplified explaination to the first practical of cloud computing, which involves spliting a c program into multiple modules and then executing it
 
 ## Program Overview
 This program is very simple - it just displays "Hello, world!" on the screen. But it's split into multiple files to demonstrate how larger programs are organized:
