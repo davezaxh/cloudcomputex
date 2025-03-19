@@ -1,4 +1,4 @@
-# Understanding Program Structure: A Beginner's Guide
+# Code Explaination
 
 Let me break down this code into simpler terms and explain how multiple files work together in a C program. This is a fundamental concept that will help you with larger projects later!
 
